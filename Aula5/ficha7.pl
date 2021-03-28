@@ -159,3 +159,5 @@ solucoes(X,Y,Z) :- findall(X,Y,Z).
 
 comprimento(S,N) :- length(S,N).
 
+
+
